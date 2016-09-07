@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoanCalculator</string>
+
+    <string name="initAmountString">Initial Amount</string>
+    <string name="interestRateString">Interest Rate</string>
+    <string name="lengthString">Length (years)</string>
+    <string name="calculateString">Calculate Loan</string>
+    <string name="clearString">Clear</string>
+    <string name="inputTitle">INPUT</string>
+    <string name="resultTitle">RESULT</string>
+    <string name="castError">ERROR! One or more of your inputed values are not numbers.</string>
+</resources>
